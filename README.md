@@ -1,6 +1,6 @@
 # Credit Card Microservice Configuration Repository
 
-Configuration repository for a simple credit card repository available on https://github.com/FelipeGO13/CreditCard-Microservice
+Configuration repository for a simple credit card system available on https://github.com/FelipeGO13/CreditCard-Microservice
 
 ### Microservices 
 
